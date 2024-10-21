@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie los valores de estos atributos para modificar la información
 // asociada a un ensamblado.
-[assembly: AssemblyTitle("TP_Cuatrimestral_Grupo3B")]
+[assembly: AssemblyTitle("tp_Cuatrimestral")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP")]
-[assembly: AssemblyProduct("TP_Cuatrimestral_Grupo3B")]
+[assembly: AssemblyProduct("tp_Cuatrimestral")]
 [assembly: AssemblyCopyright("Copyright © HP 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,15 +19,15 @@ using System.Runtime.InteropServices;
 // COM, establezca el atributo ComVisible en true en este tipo.
 [assembly: ComVisible(false)]
 
-// El siguiente GUID es para el Id. typelib cuando este proyecto esté expuesto a COM
-[assembly: Guid("404d2d04-281c-415c-8132-5fc08bdcc081")]
+// El siguiente GUID sirve como ID de typelib si este proyecto se expone a COM
+[assembly: Guid("c5ca9aa9-47ae-4be1-8cc1-552ad7b83860")]
 
 // La información de versión de un ensamblado consta de los siguientes cuatro valores:
 //
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
+//      Versión principal
+//      Versión secundaria 
+//      Número de compilación
+//      Revisión
 //
 // Puede especificar todos los valores o usar los valores predeterminados de número de compilación y de revisión 
 // mediante el carácter '*', como se muestra a continuación:

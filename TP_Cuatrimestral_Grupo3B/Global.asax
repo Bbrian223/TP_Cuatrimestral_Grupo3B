@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="TP_Cuatrimestral_Grupo3B.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="tp_Cuatrimestral.Global" Language="C#" %>
